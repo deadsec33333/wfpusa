@@ -43,6 +43,7 @@ export const Footer = (): React.ReactElement => {
               <button className="border-2 border-black px-4 py-2 font-bold text-sm hover:bg-black hover:text-[#ffcf00] transition-colors">
               <a href='https://freerice.com'>
                 PLAY GAME
+              </a>
               </button>
             </div>
 
