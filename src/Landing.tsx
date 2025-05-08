@@ -54,9 +54,10 @@ export const Landing = (): React.ReactElement => {
           <h2 className="font-halden text-[#007dbc] capitalize text-5xl">Treasury</h2>
 
           <div className="mt-2 text-lg font-inter text-black mx-[5%]">
-            Insert random junk paragraph about WFP USA. Money money money, money, money money? Money money.
-            Money money, money - money (money)? Blockchain money money money, blockchain Bitcoin money,
-            WFP USA Bitcoin money.
+          WFP USA is the United States branch of the United Nations World Food Programme, working to support global efforts to end hunger through innovation and partnerships.
+          As humanitarian needs grow, WFP USA explores emerging technologies like blockchain and cryptocurrency to expand donor reach and improve transparency.
+          Our mission is to mobilize American policymakers, businesses, and individuals 
+          to contribute to a world free from hunger — and our embrace of crypto innovation reflects that drive.
           </div>
         </section>
 
