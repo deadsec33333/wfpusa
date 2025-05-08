@@ -41,6 +41,7 @@ export const Footer = (): React.ReactElement => {
                 You pick the topic, and for every correct answer 10 grains of rice are donated to change lives.
               </p>
               <button className="border-2 border-black px-4 py-2 font-bold text-sm hover:bg-black hover:text-[#ffcf00] transition-colors">
+              <a href='https://freerice.com'>
                 PLAY GAME
               </button>
             </div>
