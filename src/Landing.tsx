@@ -22,7 +22,7 @@ export const Landing = (): React.ReactElement => {
           <div className="text-center items-center justify-center flex flex-row space-x-4 w-full">
             <Button href={"https://www.wfpusa.org/ways-to-give/crypto/"} text={"DONATE"}/>
 
-            <Button href={"https://pump.fun"} text={'TOKEN'}/>
+            <Button href={"https://dexscreener.com/solana/AFLnJoZ6Y7B495zh3cpddLMcD2s1TkTehKgREqZjpump"} text={'TOKEN'}/>
           </div>
         </div>
       </MainPageGraphic>

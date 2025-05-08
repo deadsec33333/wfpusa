@@ -62,7 +62,7 @@ export const Footer = (): React.ReactElement => {
 
       <div className="bg-[#ffcf00] pb-8 flex justify-center">
         <button className="bg-[#003263] text-white px-6 py-2 font-bold hover:bg-[#002040] transition-colors">
-          <a href="https://pump.fun/">GET INVOLVED</a>
+          <a href="https://dexscreener.com/solana/">GET INVOLVED</a>
         </button>
       </div>
 
