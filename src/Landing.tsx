@@ -32,9 +32,10 @@ export const Landing = (): React.ReactElement => {
           <h2 className="font-halden text-[#007dbc] capitalize text-5xl">About WFP USA</h2>
 
           <div className="mt-2 text-lg font-inter text-black mx-[5%]">
-            Insert random junk paragraph about WFP USA. Money money money, money, money money? Money money.
-            Money money, money - money (money)? Blockchain money money money, blockchain Bitcoin money,
-            WFP USA Bitcoin money.
+          WFP USA is the United States branch of the United Nations World Food Programme, working to support global efforts to end hunger through innovation and partnerships.
+          As humanitarian needs grow, WFP USA explores emerging technologies like blockchain and cryptocurrency to expand donor reach and improve transparency.
+          Our mission is to mobilize American policymakers, businesses, and individuals to contribute to a world
+          free from hunger — and our embrace of crypto innovation reflects that drive.
           </div>
         </section>
 
@@ -54,20 +55,23 @@ export const Landing = (): React.ReactElement => {
           <h2 className="font-halden text-[#007dbc] capitalize text-5xl">Treasury</h2>
 
           <div className="mt-2 text-lg font-inter text-black mx-[5%]">
-          WFP USA is the United States branch of the United Nations World Food Programme, working to support global efforts to end hunger through innovation and partnerships.
-          As humanitarian needs grow, WFP USA explores emerging technologies like blockchain and cryptocurrency to expand donor reach and improve transparency.
-          Our mission is to mobilize American policymakers, businesses, and individuals 
-          to contribute to a world free from hunger — and our embrace of crypto innovation reflects that drive.
+          The treasury fund serves as the backbone of our financial resilience and strategic operations.
+          Allocated 0.5% of the token supply, this reserve ensures we can continue development, handle unexpected costs,
+          and pursue impactful initiatives without compromising the integrity of the program. Treasury funds are managed
+          transparently with the intent to sustain long-term growth and stability for our blockchain-based outreach.
           </div>
         </section>
 
         <section className="mt-16 h-fit flex flex-col">
-          <h2 className="font-halden text-[#007dbc] capitalize text-5xl">Random Section</h2>
+          <h2 className="font-halden text-[#007dbc] capitalize text-5xl">Liquidity</h2>
 
           <div className="mt-2 text-lg font-inter text-black mx-[5%]">
-            Insert random junk paragraph about WFP USA. Money money money, money, money money? Money money.
-            Money money, money - money (money)? Blockchain money money money, blockchain Bitcoin money,
-            WFP USA Bitcoin money.
+          The liquidity allocation ensures the smooth functioning of the token ecosystem,
+          with 0.5% of the supply reserved for maintaining healthy market dynamics.
+          By providing liquidity, we enable easier access, reduce slippage for supporters,
+          and foster a more stable and transparent environment for token holders.
+          This reserve is essential to building trust and facilitating seamless participation
+          in our crypto-enabled donation model.
           </div>
         </section>
       </section>
